@@ -301,7 +301,8 @@ input[type='button']:hover,input[type='button']:active,input[type='button']:focu
     font-size: 20px;
     font-size: 2rem;
     font-family: "Roboto Slab";
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    color: #D82329;
 }
 
 .textwidget .cta-button {
