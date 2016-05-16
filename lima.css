@@ -928,3 +928,7 @@ input[type='button']:hover,input[type='button']:active,input[type='button']:focu
     padding-right: 5px;
     border-right: 2px solid rgba(65,68,83,0.3)
 }
+
+#after-header-widgets .widget {
+  width: 100%;
+}
