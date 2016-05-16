@@ -147,7 +147,8 @@ input[type='button']:hover,input[type='button']:active,input[type='button']:focu
 
 .home .site-header hgroup {
     height: 650px;
-    background: #FF4949 url('https://2016.lima.wordcamp.org/files/2016/05/cropped-wordcamp-lima-2016-1.jpg') repeat-x top center
+    background: #FF4949 url('https://2016.lima.wordcamp.org/files/2016/05/cropped-wordcamp-lima-2016-1.jpg') no-repeat top center;
+    background-size: contain;
 }
 
 .site-title {
